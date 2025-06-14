@@ -1,8 +1,8 @@
 import streamlit as st
 
 def main():
-    st.title("Test - Streamlit körs")
-    st.write("Om du ser detta fungerar Streamlit-appen!")
+    st.title("Hej världen!")
+    st.write("Det här är min första Streamlit-app.")
 
 if __name__ == "__main__":
     main()
